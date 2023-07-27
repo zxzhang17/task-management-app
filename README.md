@@ -35,7 +35,7 @@ To use Task Management App:
 
 ## Contact
 
-If you want to contact me you can reach me at zxzhang.xdu@gmai.com.
+If you want to contact me you can reach me at zxzhang.xdu@gmail.com.
 
 ## License
 
