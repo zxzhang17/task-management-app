@@ -1,0 +1,28 @@
+.circle {
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+    border-radius: 20%;
+    border: 0.5px solid rgb(174, 172, 172);
+    display: inline-block;
+}
+
+.light-green {
+    background: #DFFAD5;
+}
+
+.light-blue {
+    background: #ADE8F4;
+}
+
+.light-pink {
+    background: #FFD1DC;
+}
+
+.light-yellow {
+    background: #FFFFD1;
+}
+
+.white {
+    background: white;
+}
